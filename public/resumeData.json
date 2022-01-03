@@ -1,0 +1,190 @@
+{
+  "main": {
+    "name": "Masood Mahmood Zamani",
+    "occupation": "(MERN Full Stack Developer)",
+    "description": "I am ambitious and driven. I thrive on challenge and constantly set goals for myself, so I have something to strive toward. I'm not comfortable with settling, and I'm always looking for an opportunity to do better and achieve greatness. In my previous role, I was promoted three times in less than two years.",
+    "image": "profilepic.jpg",
+    "bio": "I am Muhammad Masood Mahmood, a passionate, ambitious, driven and creative Freelancer, Website Designer, Graphic Designer, and Front-End Developer (WordPress, Php, React.js, JavaScript, HTML, CSS, Bootstrap, jQuery) and Back-End Developer (Asp.net, C#, Node.js, MS SQL Server, Mango DB, Express.js) who has earned three years of experience and skills in these fields. My ideal work environment is a place where employees at every level have good communication with each other and with their supervisors. ... My ideal work environment is one where empowerment and growth are encouraged at every level, along with a positive work-life balance.",
+    "contactmessage": "Have an idea or a concept that really excite you? Let's turn that idea into reality. Shoot me a message.",
+    "email": "masoodkainatofficial@gmail.com",
+    "phone": "+92 341-8415814",
+    "address": {
+      "street": "(Johar Town)",
+      "city": "(Lahore)",
+      "state": "(Punjab)",
+      "zip": "(54000)"
+    },
+    "website": "#",
+    "resumedownload": "#",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/masood1995",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/masoodzamani95",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/muhammad-masood-mahmood-35620669/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/masoodkainatofficial/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/almasood95",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Hey, checkout my skills.",
+    "education": [
+      {
+        "school": "University of the Punjab,Lahore",
+        "degree": "BS Information Technology",
+        "graduated": "Jan. 2020",
+        "description": "Major Subjects : Network Security, Networking, System Security, OOP (C++,Java ),HTML,Java ,Assembly Language ,Database,DotNet Programming,C#,SQL Server"
+      },
+      {
+        "school": "Government Islamia Graduate College, Civil Lines, Lahore",
+        "degree": "ICS-Physics",
+        "graduated": "Sept. 2015",
+        "description": "Major Subjects :Computer Science, Mathematics, Physics"
+      }
+    ],
+    "work": [
+      {
+        "company": "Punjab Information Technology Board, Lahore",
+        "title": "Data Entry Operator",
+        "years": "October 2020 - Present",
+        "description": "Responsible to manage accounts through Data Entry softwares like OFFICE Suit."
+      },
+      {
+        "company": "TIU Ltd. UK",
+        "title": "Web Developer ",
+        "years": "Sep 2019 - August 2020 ",
+        "description": "WordPress , PHP Web Developer and Information Technology Solutions"
+      },
+      {
+        "company": "Primary & Secondary Healthcare Department, Punjab",
+        "title": "Data Entry Operator ",
+        "years": "March 2018 - July 2019",
+        "description": "Responsible to manage accounts through Data Entry softwares like OFFICE Suit."
+      },
+      {
+        "company": "Freelancer, Fiverr, Upwork",
+        "title": "Web Development",
+        "years": "March 2019 - Present",
+        "description": "Website Designer, Graphic Designer, and Front-End Developer (WordPress, Php, React.js, JavaScript, HTML, CSS, Bootstrap, jQuery) and Back-End Developer (Asp.net, C#, Node.js, MS SQL Server, Mango DB, Express.js)"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Github",
+        "level": "80%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Express.Js",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Networking",
+        "level": "70%"
+      },
+      {
+        "name": "Asp.Net, C#, Core MVC",
+        "level": "80%"
+      },
+      {
+        "name": "Node.js",
+        "level": "80%"
+      },
+      {
+        "name": "MS SQL Server",
+        "level": "90%"
+      },
+      {
+        "name": "Data Entry Specialists",
+        "level": "80%"
+      },
+      {
+        "name": "MS Office",
+        "level": "100%"
+      },
+      {
+        "name": "WordPress",
+        "level": "90%"
+      },
+      {
+        "name": "Php",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "#"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "#"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "#"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
